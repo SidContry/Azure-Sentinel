@@ -45,7 +45,7 @@ Brand new or update to a contribution via these methods:
 * After submission, check the [Pull Request](https://github.com/Azure/Azure-Sentinel/pulls) for comments
 * Make changes as suggested and update your branch or explain why no change is needed. Resolve the comment when done.
 
-### Pull Request Detection Template Structure Validation Check
+### Pull Request Detection Template Structure Validation Checks
 As part of the PR checks we run a structure validation to make sure all required parts of the YAML structure are included.  For Detections, there is a new section that must be included.  See the [contribution guidelines](https://github.com/Azure/Azure-Sentinel/wiki/Contribute-to-Sentinel-GitHub-Community-of-Queries#now-onto-the-how) for more information.  If this section or any other required section is not included, then a validation error will occur similar to the below.
 The example is specifically if the YAML is missing the entityMappings section:
 
