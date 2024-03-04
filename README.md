@@ -8,7 +8,7 @@ Welcome to the unified Microsoft Sentinel and Microsoft 365 Defender repository!
 * [Security Community Webinars](https://aka.ms/securitywebinars)
 * [Getting started with GitHub](https://help.github.com/en#dotcom)
 
-We value your feedback. Here are some channels to help surface your questions or feedback:
+We value your feedback. Here are some channels to help surface your questions or feedbacks:
 1. General product specific Q&A for SIEM and SOAR - Join in the [Microsoft Sentinel Tech Community conversations](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel)
 2. General product specific Q&A for XDR - Join in the [Microsoft 365 Defender Tech Community conversations](https://techcommunity.microsoft.com/t5/microsoft-365-defender/bd-p/MicrosoftThreatProtection)
 3. Product specific feature requests - Upvote or post new on [Microsoft Sentinel feedback forums](https://feedback.azure.com/d365community/forum/37638d17-0625-ec11-b6e6-000d3a4f07b8)
